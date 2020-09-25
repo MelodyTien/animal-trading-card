@@ -1,0 +1,41 @@
+/* add your CSS here */
+/* Style Guide:*/
+/* Always put a blank line (two line breaks) between rules.*/
+/* Omit unit specification after 0 values.*/
+/* Use only lowercase.*/
+img{
+  width: 300px;
+  height: 200px;
+}
+
+
+li span{
+  font-weight: bold;
+}
+
+
+ul{
+  list-style: none;
+  padding-left: 0;
+}
+
+
+.italicparagraph{
+  font-style: italic;
+}
+
+
+.space{
+  margin: 5px;
+  padding: 10px;
+}
+
+
+.grayborder{
+  border: 0.5px solid rgb(221, 225, 225);
+}
+
+
+#card{
+  width: 330px; /*margin of image + padding of Card = 20*/
+}
